@@ -1,4 +1,16 @@
-MIT License
+## Data and licensing
+
+This repository contains analysis code developed for the computational analysis of publicly available transcriptomic data.
+
+The study is based on previously generated RNA-seq data obtained from the NCBI Gene Expression Omnibus (GEO), including the GSE90894 RNA-seq SubSeries within the GSE90895 SuperSeries. The data were not generated as part of this project; they were downloaded from the public repository and subsequently processed and analyzed using the workflows provided in this repository.
+
+The original datasets remain subject to the terms and conditions of their respective data repositories and source studies.
+
+The original analysis code, scripts, and documentation developed for this project are released under the MIT License.
+
+---
+
+### MIT License
 
 Copyright (c) 2026 Alina Sobolieva
 
